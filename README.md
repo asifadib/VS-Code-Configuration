@@ -15,7 +15,7 @@ My VS Code Configuration including Extensions, Color Themes, File Icon Theme, Fo
 
 
 
-## Extensions I use ⚙
+### Extensions I use ⚙
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -38,7 +38,7 @@ My VS Code Configuration including Extensions, Color Themes, File Icon Theme, Fo
 
 
 
-## Color Themes I use 🌈
+### Color Themes I use 🌈
 
 - [Learn with Sumit Theme](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme)
 - [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
@@ -46,7 +46,7 @@ My VS Code Configuration including Extensions, Color Themes, File Icon Theme, Fo
 
 
 
-## File Icon Theme I use 📁
+### File Icon Theme I use 📁
 
 - [VS Code Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -54,16 +54,7 @@ My VS Code Configuration including Extensions, Color Themes, File Icon Theme, Fo
 
 
 
-## Fonts I use 🌠 
-
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono)
-- [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-- [MonoLisa](https://www.monolisa.dev)
-- [Fira Code](https://github.com/tonsky/FiraCode)
-
-
-
-## Json Configuration 🛠
+### Json Configuration 🛠
 
 ```json
 {
