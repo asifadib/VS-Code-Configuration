@@ -7,11 +7,11 @@ My VS Code Configuration including Extensions, Color Themes, File Icon Theme, Fo
 
 ## Table of Contents 💻
 
-- [Extensions](#extensions-i-use)
-- [Color Themes](#color-themes-i-use)
-- [File Icon Theme](#file-icon-theme-i-use)
+- [Extensions](#Extensions-I-use)
+- [Color Themes](#Color-Themes-I-use)
+- [File Icon Theme](#File-Icon-Theme-I-use)
 - [Fonts](#fonts-i-use)
-- [Json Configuration](#Json-configuration)
+- [Json Configuration](#Json-Configuration)
 
 
 
